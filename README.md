@@ -1,5 +1,5 @@
 
-![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=EmreKorkusuz&repo=EmreKorkusuz&countColorcountColor)
+![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=EmreKorkusuz&repo=korkusuz02&countColorcountColor)
 
 <h3 align="center">
   Welcome to Emre Korkusuz's profile!
@@ -11,13 +11,13 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
-[![MasterHead](https://github.com/GuillaumeFalourd/GuillaumeFalourd/blob/output/github-contribution-grid-snake.svg)](https://github.com/EmreKorkusuz)
+[![MasterHead](https://github.com/GuillaumeFalourd/GuillaumeFalourd/blob/output/github-contribution-grid-snake.svg)](https://github.com/korkusuz02)
           
 
  
 
 <p align="left">
-  <a href="https://github.com/EmreKorkusuz?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
+  <a href="https://github.com/korkusuz02?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </p>
 
 ## 🔥 Streak stats
@@ -25,7 +25,7 @@
 <!-- GitHub Readme Streak Stats - https://github.com/YanjunLin-Andrie/github-readme-streak-stats -->
 
 <p align="center">
-  <img height="230em" src="https://github-readme-streak-stats.herokuapp.com/?user=EmreKorkusuz&theme=monokai-metallian&hide_border=true" />
+  <img height="230em" src="https://github-readme-streak-stats.herokuapp.com/?user=Emre???? korkusuz02&theme=monokai-metallian&hide_border=true" />
 </p> 
 
 <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
