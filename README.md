@@ -25,7 +25,7 @@
 <!-- GitHub Readme Streak Stats - https://github.com/YanjunLin-Andrie/github-readme-streak-stats -->
 
 <p align="center">
-  <img height="230em" src="https://github-readme-streak-stats.herokuapp.com/?user=Emre???? korkusuz02&theme=monokai-metallian&hide_border=true" />
+  <img height="230em" src="https://github-readme-streak-stats.herokuapp.com/?user=korkusuz02???? korkusuz02&theme=monokai-metallian&hide_border=true" />
 </p> 
 
 <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
