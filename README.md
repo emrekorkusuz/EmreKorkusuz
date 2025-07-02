@@ -1,5 +1,5 @@
 
-![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=EmreKorkusuz&repo=korkusuz02&countColorcountColor)
+![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=EmreKorkusuz&repo=emrekorkusuz&countColorcountColor)
 
 <h3 align="center">
   Welcome to Emre Korkusuz's profile!
@@ -7,28 +7,27 @@
 </h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/emre-korkusuz-899aa322b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img width="32px" alt="Linkedin" title="Linkedin" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"/></a>
+  <a href="linkedin.com/in/emrekorkusuz"><img width="32px" alt="Linkedin" title="Linkedin" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
-[![MasterHead](https://github.com/GuillaumeFalourd/GuillaumeFalourd/blob/output/github-contribution-grid-snake.svg)](https://github.com/korkusuz02)
+[![MasterHead](https://github.com/GuillaumeFalourd/GuillaumeFalourd/blob/output/github-contribution-grid-snake.svg)](https://github.com/emrekorkusuz)
           
 
  
 
 <p align="left">
-  <a href="https://github.com/korkusuz02?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
+  <a href="https://github.com/emrekorkusuz?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </p>
 
 ## 🔥 Streak stats
 
-<!-- GitHub Readme Streak Stats - https://github.com/YanjunLin-Andrie/github-readme-streak-stats -->
+
 
 <p align="center">
-  <img height="230em" src="https://github-readme-streak-stats.herokuapp.com/?user=korkusuz02&theme=monokai-metallian&hide_border=true" />
+  <img height="230em" src="https://github-readme-streak-stats.herokuapp.com/?user=emrekorkusuz&theme=monokai-metallian&hide_border=true" />
 </p> 
 
-<!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
 ## 🛠️ My favorite tools
 
